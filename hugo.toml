@@ -4,6 +4,9 @@ title = "Keith's Notes"
 copyright = "Keith Haber"
 theme = 'archie'
 
+[params]
+  customcss = ["css/style.css"]
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
