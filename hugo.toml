@@ -6,6 +6,7 @@ theme = 'archie'
 
 [params]
   customcss = ["css/style.css"]
+  favicon = "favicon-32x32.png"
 
 [caches]
   [caches.images]
