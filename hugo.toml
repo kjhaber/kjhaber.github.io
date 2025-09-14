@@ -1,0 +1,5 @@
+baseURL = 'https://kjhaber.github.io/'
+languageCode = 'en-us'
+title = "Keith's Notes"
+copyright = "Keith Haber"
+theme = 'archie'
