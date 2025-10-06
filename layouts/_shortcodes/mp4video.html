@@ -1,0 +1,4 @@
+<figure>
+  <video src='{{ printf "%s" (.Get "src") }}' type="video/mp4" width="800" controls title='{{ printf "%s" (.Get "caption") }}'></video>
+  <figcaption>{{ printf "%s" (.Get "caption") }}</figcaption>
+</figure>
